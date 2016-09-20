@@ -3,3 +3,7 @@
 ################################################################################
 
 /EventManager/EventManager.Droid/bin/Debug
+/EventManager/EventManager.Droid/obj/Debug
+
+/EventManager/EventManager/bin/Debug
+/EventManager/EventManager/obj/Debug
